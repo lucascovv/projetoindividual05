@@ -1,0 +1,17 @@
+{
+  "name": "projeto5",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Projeto Individual do Módulo 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "x": "nodemon index.js"
+  },
+  "author": "Karen Moraes",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "readline-sync": "^1.4.10"
+  }
+}
